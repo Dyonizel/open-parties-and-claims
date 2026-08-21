@@ -227,7 +227,7 @@
 	"gui.xaero_pac_full_title_format" : "%1$s - %2$s",
 	"gui.xaero_pac_title_wilderness" : "Wilderness",
 	"gui.xaero_pac_title_player_claim" : "%1$s's Claim%2$s",
-	"gui.xaero_pac_title_server_claim" : "Server Claim%1$s",
+	"gui.xaero_pac_title_server_claim" : "Dyonizel%1$s",
 	"gui.xaero_pac_title_expired_claim" : "Expired Claim%1$s",
 	"gui.xaero_pac_title_party_claim" : "%1$s%2$s",
 	"gui.xaero_pac_marked_for_forceload" : " (Forceloadable)",
